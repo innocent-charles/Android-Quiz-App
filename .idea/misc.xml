@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/about_us.xml" value="0.10572916666666667" />
+        <entry key="app/src/main/res/drawable/background.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/drawable/go_gra_btn.xml" value="0.13" />
+        <entry key="app/src/main/res/drawable/ic_mail_black_24dp.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/drawable/ic_splashscreen__3_.xml" value="0.20989583333333334" />
+        <entry key="app/src/main/res/font/righteous.xml" value="0.19722222222222222" />
+        <entry key="app/src/main/res/font/roboto.xml" value="0.19722222222222222" />
+        <entry key="app/src/main/res/font/roboto_bold.xml" value="0.19722222222222222" />
+        <entry key="app/src/main/res/font/roboto_medium.xml" value="0.19722222222222222" />
+        <entry key="app/src/main/res/layout-land/activity_new_me.xml" value="0.303125" />
+        <entry key="app/src/main/res/layout-land/layout_land.xml" value="0.303125" />
+        <entry key="app/src/main/res/layout-land/signupquiz.xml" value="0.2" />
+        <entry key="app/src/main/res/layout-v17/activity_about_us.xml" value="0.22" />
+        <entry key="app/src/main/res/layout-v17/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-v17/activity_sign_up.xml" value="0.9347826086956522" />
+        <entry key="app/src/main/res/layout-v17/activity_splash.xml" value="0.1" />
+        <entry key="app/src/main/res/layout-v28/activity_main_questions_view.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/aboutdeveloper.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_about_us.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_blank.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_custom_popup.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_fail_20_layout.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_forgot__password.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_loginplace.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_main_questions_view.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_nav_header_layout.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_new_me.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_pass_100_layout.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_pass_50_layout.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_pass_70_layout.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/activity_questions_now.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_sign_up.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_splash.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_splashone.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/activity_user__profile.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/android.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/atleast_70_layout.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/fail_20_layout.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/header_nav.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/menuhome.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/middle_50_layout.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/passed_100_layout.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/php.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/php_questions.xml" value="0.19375" />
+        <entry key="app/src/main/res/layout/signupquiz.xml" value="0.19375" />
+        <entry key="app/src/main/res/menu/list_menu.xml" value="0.19375" />
+        <entry key="app/src/main/res/menu/menumenu_list.xml" value="0.19375" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.20989583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

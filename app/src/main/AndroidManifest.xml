@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:dist="http://schemas.android.com/apk/distribution"
+    package="com.nyakana.quizapp_CP_313">
+    <dist:module dist:instant="true" />
+
+    <application
+        android:allowBackup="true"
+        android:fullBackupContent="@xml/backup_descriptor"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name="com.nyakana.quizapp_CP_313.splash_one"
+            android:screenOrientation="fullSensor"
+            android:exported="true"
+            android:theme="@style/LaunchTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name="com.nyakana.quizapp_CP_313.User.SignUpActivity"
+
+            />
+        <activity android:name="com.nyakana.quizapp_CP_313.User.LoginActivity"
+
+            />
+        <activity android:name="com.nyakana.quizapp_CP_313.MenuHomeScreenActivity"
+            android:screenOrientation="fullSensor"
+            />
+        <activity
+            android:name="com.nyakana.quizapp_CP_313.questions_now"
+            android:screenOrientation="fullSensor"
+            android:exported="true" />
+        <activity
+            android:name="com.nyakana.quizapp_CP_313.User.blank"
+            android:screenOrientation="fullSensor"
+            android:exported="true" />
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-3940256099942544~3347511713" />
+
+        <activity android:name=".android"/>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

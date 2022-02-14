@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/home"
+            android:icon="@drawable/ic_home"
+            android:title="Categories" />
+    </group>
+
+    <item android:title="More">
+
+        <menu>
+
+            <group android:checkableBehavior="single">
+
+                <item
+                    android:id="@+id/user_profile"
+                    android:icon="@drawable/ic_baseline_info_24"
+                    android:title="Info" />
+
+
+                <item
+                    android:id="@+id/tutorial"
+                    android:icon="@drawable/ic_baseline_youtube_searched_for_24"
+                    android:title="Tutorial" />
+
+                <item
+                    android:id="@+id/about"
+                    android:icon="@drawable/about_us"
+                    android:title="About US" />
+
+
+                <item
+                    android:id="@+id/logout"
+                    android:icon="@drawable/ic_exit_to_app"
+                    android:title="Logout" />
+
+
+            </group>
+
+        </menu>
+
+    </item>
+
+
+</menu>
